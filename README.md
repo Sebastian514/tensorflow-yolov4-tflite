@@ -1,3 +1,7 @@
+## 预训练权重文件yolov4.weights下载
+百度网盘:https://pan.baidu.com/s/1gtSiJGe_RmYUbaiG8qGUlQ
+提取码:abcd
+下载后放入./data下
 ## 依赖库安装
 
 ```bash
